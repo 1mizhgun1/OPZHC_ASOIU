@@ -56,7 +56,7 @@ title[<b>Блок ПРИБОР</b>]
  style par4 fill:#ccc,stroke:#555,stroke-width:2px;
 ```
 
-## Код
+## Код mermaid
 flowchart TD
 title[<b>Блок ПРИБОР</b>]
  %% задаем структуру первого процесса
