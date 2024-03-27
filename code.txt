@@ -1,10 +1,3 @@
-# Семинар 7
-
-## Код mermaid
-<a href="./code.txt">посмотреть код</a>
-
-## Результат
-```mermaid
 flowchart TD
 title[<b>Блок ПРИБОР</b>]
  %% задаем структуру первого процесса
@@ -57,4 +50,3 @@ title[<b>Блок ПРИБОР</b>]
  style par1 fill:#fcc,stroke:#111,stroke-width:2px;
  style par2 fill:#fae,stroke:#bbb,stroke-width:2px;
  style par4 fill:#ccc,stroke:#555,stroke-width:2px;
-```
